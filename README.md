@@ -12,7 +12,7 @@
 ### Analysis of Outcomes Based on Goals
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/107223650/175180967-e487a2a6-d225-45fa-af6f-9c3163c2bd24.png)
 
-### Challenges for this analysis were making sure eto sort out outliers in the data, and creating the correct formulas to analyze the outcomes based on goals
+### Challenges for this analysis were making sure to sort out outliers in the data, and creating the correct formulas to analyze the outcomes based on goals
 
 ## Results
 
